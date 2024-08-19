@@ -1,0 +1,5 @@
+# OS X
+.DS_Store
+
+# Download files
+*.tar.gz
