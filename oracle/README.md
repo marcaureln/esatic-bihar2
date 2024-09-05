@@ -24,7 +24,7 @@ Access logs to see the installation progress:
 docker logs oracledb -f --tail 100
 ```
 
-Once installation complete, Oracle Enterprise Manager Database Express (EM Express) will be available at [https://localhost:5500/em]. Use the following credentials to log in:
+Once installation complete, Oracle Enterprise Manager Database Express (EM Express) will be available at <https://localhost:5500/em>. Use the following credentials to log in:
 
 ```
 Username: sys
