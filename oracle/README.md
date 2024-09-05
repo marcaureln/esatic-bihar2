@@ -1,12 +1,12 @@
 # Oracle Database 19c Enterprise Edition on ARM64
 
-This Vargantfile is for people unable to virtualize x86_64 architecture on their ARM64 machines. To be sure that you need this Vagrantfile, run the following command:
+This Docker Compose file is for people unable to use the course's Vagrantfile because they have ARM CPUs. To be sure that you need this, run the following command:
 
 ```bash
 uname -m
 ```
 
-If the output is `armv64` or `aarch64`, then you need this Vagrantfile. If the output is `x86_64`, then walk away from this repository.
+If the output is `armv64` or `aarch64`, then you are in the right place. If the output is `x86_64`, then walk away from this repository and use the course's Vagrantfile.
 
 ## Getting Started
 
